@@ -26,7 +26,7 @@ I design **end-to-end solutions**, from data engineering to deploying intelligen
 Web application to manage patients, doctors, and appointments.  
 **Tech:** React.js, Spring Boot, MongoDB, REST API  
 
-### [3D Tree Species Classification (CNN)](link_to_repo)
+### [3D Tree Species Classification (CNN)](https://drive.google.com/drive/u/1/folders/1rpjEoWwNMKqOy1VLjtA-LEzEK1KxDxtD)
 Classifying tree species from **3D point clouds** using CNN.  
 **Tech:** Python, PyTorch, Open3D  
 
